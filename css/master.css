@@ -16,8 +16,18 @@ body {
   font-weight: 500;
 }
 
+.main-content {
+  padding-bottom: 4%;
+}
+
 .content {
-  padding-top: 12%;
+  padding-top: 8%;
+  text-align: center;
+}
+
+.khaleejia-logo {
+  width: 4rem;
+  height: auto;
 }
 
 .icon {
@@ -28,6 +38,7 @@ body {
 .footer {
   font-size: 1.25rem;
   position: fixed;
-  bottom: 0;
+  bottom: 10px;
   right: 50%;
+  text-align: center;
 }

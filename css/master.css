@@ -33,12 +33,12 @@ body {
 .icon {
   text-decoration: none;
   color: white;
+  padding-right: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer {
   font-size: 1.25rem;
-  position: fixed;
-  bottom: 10px;
-  right: 50%;
   text-align: center;
 }

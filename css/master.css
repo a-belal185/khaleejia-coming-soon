@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to right, #3d6cb9, #00d1ff);
+  background-image: linear-gradient(to left, #3d6cb9, #00d1ff);
   color: #fff;
   font-family: 'Montserrat', sans-serif;
   font-family: 'Tajawal', sans-serif;
@@ -36,6 +36,26 @@ body {
   padding-right: 0.5rem;
   margin-left: auto;
   margin-right: auto;
+}
+
+.facebook:hover {
+  color: #3b5998;
+}
+
+.twitter:hover {
+  color: #00acee;
+}
+
+.instagram:hover {
+  color: #833AB4;
+}
+
+.youtube:hover {
+  color: #FF0000;
+}
+
+.gmail:hover {
+  color: #323232;
 }
 
 .footer {
